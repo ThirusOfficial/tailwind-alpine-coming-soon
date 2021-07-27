@@ -3,3 +3,4 @@
 Responsive coming soon page built using Tailwind CSS and Alpine JS, with a countdown timer.
 
 Watch the complete video tutorial:
+https://youtu.be/XsSp0X1lrEU
